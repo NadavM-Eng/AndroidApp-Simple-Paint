@@ -133,6 +133,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener{
         brushDialog.show()
     }
 
+    // a change to check how git works
+
     private fun openColorPickerDialogue(){
         val colorPickerDialog = AmbilWarnaDialog(this, colorTemp,object: OnAmbilWarnaListener {
             override fun onCancel(dialog: AmbilWarnaDialog?) {
