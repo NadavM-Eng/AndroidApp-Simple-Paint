@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_2_Drawing_App</string>
+    <string name="brush_size">Brush Size</string>
+    <string name="color_picker">Color Picker</string>
+    <string name="upload_drawing">Upload Drawing</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="dialog_yes">yes</string>
+    <string name="image_from_gallery">image from gallery</string>
+    <string name="undo">undo</string>
+</resources>

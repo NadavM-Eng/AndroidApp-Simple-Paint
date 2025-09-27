@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/example/task_2_drawing_app/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/task_2_drawing_app/MainActivity.kt b/app/src/main/java/com/example/task_2_drawing_app/MainActivity.kt
+--- a/app/src/main/java/com/example/task_2_drawing_app/MainActivity.kt	
++++ b/app/src/main/java/com/example/task_2_drawing_app/MainActivity.kt	(date 1754828861210)
+@@ -170,7 +170,6 @@
+                 arrayOf(Manifest.permission.READ_EXTERNAL_STORAGE)
+             )
+         }
+-        Toast.makeText(this,"worked",Toast.LENGTH_SHORT).show()
+     }
+ 
+     private fun showRationaleDialog(){
